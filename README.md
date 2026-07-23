@@ -80,11 +80,6 @@ I run **PT Surya Inovasi Prioritas (SURIOTA)** in Batam, Indonesia, an industria
 ### // TELEMETRY
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GifariKemal&show_icons=true&count_private=true&include_all_commits=true&hide_border=false&bg_color=0A0E11&title_color=D68A47&text_color=ADB8BF&icon_color=3FD9B0&border_color=283139" alt="stats" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GifariKemal&layout=compact&langs_count=8&hide_border=false&bg_color=0A0E11&title_color=D68A47&text_color=ADB8BF&border_color=283139" alt="top langs" height="170">
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=GifariKemal&hide_border=false&background=0A0E11&border=283139&stroke=283139&ring=D68A47&fire=E26A3C&currStreakNum=EEF3F5&sideNums=ADB8BF&currStreakLabel=D68A47&sideLabels=9AA4AB&dates=9AA4AB" alt="streak">
 </p>
 

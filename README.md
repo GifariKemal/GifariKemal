@@ -1,115 +1,124 @@
-<!-- Profile README - GifariKemal. Rendered on github.com/GifariKemal -->
+<!-- Profile README - GifariKemal. SCADA/HMI palette matched to gifariksuryo.xyz -->
 <h1 align="center">Gifari Kemal Suryo</h1>
 
 <p align="center">
   <a href="https://gifariksuryo.xyz">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&lines=Founder+%26+CEO+at+SURIOTA;Industrial+IoT+%7C+AI+Trading+%7C+Self-hosted+AI;I+design+the+business+and+I+ship+the+code" alt="typing headline">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1000&color=D68A47&center=true&vCenter=true&width=700&lines=Founder+%26+CEO+at+SURIOTA;Industrial+IoT+%7C+AI+Trading+%7C+Self-hosted+AI;I+design+the+business+and+I+ship+the+code" alt="typing headline">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://gifariksuryo.xyz"><img src="https://img.shields.io/badge/Portfolio-gifariksuryo.xyz-38BDF8?style=for-the-badge&logo=astro&logoColor=white" alt="Portfolio"></a>
-  <a href="mailto:gifariksuryo@gmail.com"><img src="https://img.shields.io/badge/Email-contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <img src="https://img.shields.io/badge/Company-PT%20Surya%20Inovasi%20Prioritas-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="Company">
-  <img src="https://komarev.com/ghpvc/?username=GifariKemal&label=Profile%20views&color=38BDF8&style=for-the-badge" alt="views">
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-3FD9B0?style=flat-square&labelColor=0A0E11" alt="status online">
+  <img src="https://img.shields.io/badge/ROLE-FOUNDER%20%2B%20CEO-D68A47?style=flat-square&labelColor=0A0E11" alt="role">
+  <img src="https://img.shields.io/badge/BASE-BATAM%2C%20ID-11171C?style=flat-square&labelColor=0A0E11" alt="base">
+  <img src="https://img.shields.io/badge/FOCUS-IIoT%20%2F%20AI%20%2F%20SECURITY-D68A47?style=flat-square&labelColor=0A0E11" alt="focus">
+</p>
+
+<p align="center">
+  <a href="https://gifariksuryo.xyz"><img src="https://img.shields.io/badge/PORTFOLIO-gifariksuryo.xyz-D68A47?style=for-the-badge&logo=astro&logoColor=0A0E11&labelColor=11171C" alt="Portfolio"></a>
+  <a href="mailto:gifariksuryo@gmail.com"><img src="https://img.shields.io/badge/EMAIL-contact-E26A3C?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=11171C" alt="Email"></a>
+  <img src="https://img.shields.io/badge/SURIOTA-PT%20Surya%20Inovasi%20Prioritas-3FD9B0?style=for-the-badge&logo=github&logoColor=0A0E11&labelColor=11171C" alt="Company">
+  <img src="https://komarev.com/ghpvc/?username=GifariKemal&label=TERMINAL%20VIEWS&color=D68A47&style=for-the-badge&labelColor=11171C" alt="views">
 </p>
 
 ---
 
-### About / Tentang
+### // SYSTEM OVERVIEW
 
 I run **PT Surya Inovasi Prioritas (SURIOTA)** in Batam, Indonesia, an industrial IoT and AI company, and I stay hands-on in the codebase. From ESP32 gateways talking Modbus over MQTT, to AI trading systems, to a self-hosted AI stack, I like owning the whole chain: hardware, firmware, backend, and the model on top.
 
 > Saya menjalankan **SURIOTA**, perusahaan IoT industri dan AI di Batam, dan tetap turun langsung ke kode. Dari gateway ESP32 (Modbus over MQTT), sistem AI trading, sampai stack AI self-hosted, saya suka pegang rantai lengkapnya: perangkat keras, firmware, backend, dan model di atasnya.
 
-- Building **SRT-MGATE-1210** industrial IoT gateway and the **SURGE** telemetry platform.
-- Researching **AI trading** for XAUUSD (SMC/ICT + ML), and running a self-hosted multi-agent AI stack.
+- Building the **SRT-MGATE-1210** industrial IoT gateway and the **SURGE** telemetry platform.
+- Researching **AI trading** for XAUUSD (SMC/ICT plus ML), and running a self-hosted multi-agent AI stack.
 - Into **security**: authorized bug bounty, red-team tooling, and CTF.
-- Currently learning: sharper MLOps and squeezing more out of edge hardware.
+- Currently sharpening: MLOps discipline and squeezing more out of edge hardware.
 - Reach me: [gifariksuryo.xyz](https://gifariksuryo.xyz) / gifariksuryo@gmail.com
 
 ---
 
-### Tech Stack
+### // INSTRUMENTATION
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/Python-11171C?style=flat-square&logo=python&logoColor=D68A47" alt="Python">
+  <img src="https://img.shields.io/badge/C%2B%2B-11171C?style=flat-square&logo=cplusplus&logoColor=D68A47" alt="C++">
+  <img src="https://img.shields.io/badge/TypeScript-11171C?style=flat-square&logo=typescript&logoColor=D68A47" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Dart-11171C?style=flat-square&logo=dart&logoColor=D68A47" alt="Dart">
+  <img src="https://img.shields.io/badge/PHP-11171C?style=flat-square&logo=php&logoColor=D68A47" alt="PHP">
 </p>
 <p>
-  <img src="https://img.shields.io/badge/ESP--IDF-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP-IDF">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter">
-  <img src="https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white" alt="Astro">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/ESP--IDF-11171C?style=flat-square&logo=espressif&logoColor=D68A47" alt="ESP-IDF">
+  <img src="https://img.shields.io/badge/FastAPI-11171C?style=flat-square&logo=fastapi&logoColor=D68A47" alt="FastAPI">
+  <img src="https://img.shields.io/badge/Flutter-11171C?style=flat-square&logo=flutter&logoColor=D68A47" alt="Flutter">
+  <img src="https://img.shields.io/badge/Astro-11171C?style=flat-square&logo=astro&logoColor=D68A47" alt="Astro">
+  <img src="https://img.shields.io/badge/Laravel-11171C?style=flat-square&logo=laravel&logoColor=D68A47" alt="Laravel">
+  <img src="https://img.shields.io/badge/React-11171C?style=flat-square&logo=react&logoColor=D68A47" alt="React">
 </p>
 <p>
-  <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white" alt="MQTT">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n">
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/MQTT-11171C?style=flat-square&logo=mqtt&logoColor=3FD9B0" alt="MQTT">
+  <img src="https://img.shields.io/badge/Modbus-11171C?style=flat-square&logo=modbus&logoColor=3FD9B0" alt="Modbus">
+  <img src="https://img.shields.io/badge/Docker-11171C?style=flat-square&logo=docker&logoColor=3FD9B0" alt="Docker">
+  <img src="https://img.shields.io/badge/n8n-11171C?style=flat-square&logo=n8n&logoColor=3FD9B0" alt="n8n">
+  <img src="https://img.shields.io/badge/Cloudflare-11171C?style=flat-square&logo=cloudflare&logoColor=3FD9B0" alt="Cloudflare">
+  <img src="https://img.shields.io/badge/Linux-11171C?style=flat-square&logo=linux&logoColor=3FD9B0" alt="Linux">
 </p>
 
 ---
 
-### Featured Projects / Proyek Pilihan
+### // ACTIVE PROJECTS
 
 <p>
   <a href="https://github.com/GifariKemal/xaubot-ai">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GifariKemal&repo=xaubot-ai&theme=tokyonight&hide_border=true" alt="xaubot-ai">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GifariKemal&repo=xaubot-ai&bg_color=0A0E11&title_color=D68A47&text_color=ADB8BF&icon_color=3FD9B0&border_color=283139" alt="xaubot-ai">
   </a>
   <a href="https://github.com/GifariKemal/last-bot-ai-trading">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GifariKemal&repo=last-bot-ai-trading&theme=tokyonight&hide_border=true" alt="last-bot-ai-trading">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GifariKemal&repo=last-bot-ai-trading&bg_color=0A0E11&title_color=D68A47&text_color=ADB8BF&icon_color=3FD9B0&border_color=283139" alt="last-bot-ai-trading">
   </a>
 </p>
 <p>
   <a href="https://github.com/GifariKemal/argus-web-mcp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GifariKemal&repo=argus-web-mcp&theme=tokyonight&hide_border=true" alt="argus-web-mcp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GifariKemal&repo=argus-web-mcp&bg_color=0A0E11&title_color=D68A47&text_color=ADB8BF&icon_color=3FD9B0&border_color=283139" alt="argus-web-mcp">
   </a>
   <a href="https://github.com/GifariKemal/anggie-smart-light">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GifariKemal&repo=anggie-smart-light&theme=tokyonight&hide_border=true" alt="anggie-smart-light">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GifariKemal&repo=anggie-smart-light&bg_color=0A0E11&title_color=D68A47&text_color=ADB8BF&icon_color=3FD9B0&border_color=283139" alt="anggie-smart-light">
   </a>
 </p>
 
 ---
 
-### GitHub Stats
+### // TELEMETRY
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GifariKemal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GifariKemal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=GifariKemal&show_icons=true&count_private=true&include_all_commits=true&hide_border=false&bg_color=0A0E11&title_color=D68A47&text_color=ADB8BF&icon_color=3FD9B0&border_color=283139" alt="stats" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GifariKemal&layout=compact&langs_count=8&hide_border=false&bg_color=0A0E11&title_color=D68A47&text_color=ADB8BF&border_color=283139" alt="top langs" height="170">
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=GifariKemal&theme=tokyonight&hide_border=true" alt="streak">
+  <img src="https://streak-stats.demolab.com?user=GifariKemal&hide_border=false&background=0A0E11&border=283139&stroke=283139&ring=D68A47&fire=E26A3C&currStreakNum=EEF3F5&sideNums=ADB8BF&currStreakLabel=D68A47&sideLabels=9AA4AB&dates=9AA4AB" alt="streak">
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GifariKemal&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=GifariKemal&theme=onedark&no-frame=true&column=7&margin-w=8&margin-h=8" alt="trophies">
 </p>
 
-<picture>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GifariKemal&theme=tokyo-night&hide_border=true&area=true" alt="activity graph">
-</picture>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GifariKemal&custom_title=Contribution%20Trace&bg_color=0A0E11&color=EEF3F5&title_color=D68A47&line=3FD9B0&point=EFB277&area=true&area_color=D68A47&hide_border=true" alt="activity graph">
+</p>
 
 ---
 
-<!-- Snake animation generated by .github/workflows/snake.yml, output on the output branch -->
+### // CONTRIBUTION TRACE
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GifariKemal/GifariKemal/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GifariKemal/GifariKemal/output/github-snake.svg">
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/GifariKemal/GifariKemal/output/github-snake.svg">
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/GifariKemal/GifariKemal/output/github-snake-dark.svg">
 </picture>
 
 ---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="quote">
 </p>
 
 <p align="center"><i>Design the business, ship the code. // Rancang bisnisnya, kirim kodenya.</i></p>
